@@ -1,7 +1,7 @@
 # Naijahacks Hackathon 2019
 # Team Workforme
 # Team Members
-Ahmed Seun Bello hamebello@gmail.com
+Ahmed Seun Bello, hamebello@gmail.com
 # Problem
 Africans working abroad find it difficult to get trusted people in africa to help them set up/manage their business in africa thereby creating jobs/employment while they are away which has forced most of them to stay back abroad because they have nothing to fall back to in africa after retirement.
 
